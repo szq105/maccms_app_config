@@ -1,0 +1,1198 @@
+{
+    "version": 5,
+    "channels": [
+        {
+            "name": "CCTV1",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv1",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png"
+        },
+        {
+            "name": "CCTV2",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv2",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png"
+        },
+        {
+            "name": "CCTV3",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv3",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png"
+        },
+        {
+            "name": "CCTV4",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv4",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png"
+        },
+        {
+            "name": "CCTV4美洲",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv4m",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png"
+        },
+        {
+            "name": "CCTV4欧洲",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv4o",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png"
+        },
+        {
+            "name": "CCTV5",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv5",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png"
+        },
+        {
+            "name": "CCTV5+",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv5p",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png"
+        },
+        {
+            "name": "CCTV6",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv6",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png"
+        },
+        {
+            "name": "CCTV7",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv7",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png"
+        },
+        {
+            "name": "CCTV8",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png"
+        },
+        {
+            "name": "CCTV9",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv9",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png"
+        },
+        {
+            "name": "CCTV10",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv10",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png"
+        },
+        {
+            "name": "CCTV11",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv11",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png"
+        },
+        {
+            "name": "CCTV12",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv12",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png"
+        },
+        {
+            "name": "CCTV13",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv13",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png"
+        },
+        {
+            "name": "CCTV14",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv14",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png"
+        },
+        {
+            "name": "CCTV15",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv15",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png"
+        },
+        {
+            "name": "CCTV16",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv16",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png"
+        },
+        {
+            "name": "CCTV17",
+            "webUrl": "https://www.wmviv.com/iptv/bc2t.php?id=cctv17",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png"
+        },
+        {
+            "name": "CCTV发现之旅",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=fxzl",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV发现之旅.png"
+        },
+        {
+            "name": "CCTV老故事",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=lgs",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png"
+        },
+        {
+            "name": "CCTV中学生",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=zxs",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV中学生.png"
+        },
+        {
+            "name": "CGTN",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=cgtn",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN.png"
+        },
+        {
+            "name": "CGTN纪录",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=cgtnjl",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN纪录.png"
+        },
+        {
+            "name": "东方卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=dfws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png"
+        },
+        {
+            "name": "重庆卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=cqws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png"
+        },
+        {
+            "name": "吉林卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=jlws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png"
+        },
+        {
+            "name": "辽宁卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=lnws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png"
+        },
+        {
+            "name": "内蒙古卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=nmws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png"
+        },
+        {
+            "name": "宁夏卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=nxws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png"
+        },
+        {
+            "name": "甘肃卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=gsws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png"
+        },
+        {
+            "name": "青海卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=qhws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png"
+        },
+        {
+            "name": "陕西卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=sxws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png"
+        },
+        {
+            "name": "山东卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=sdws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png"
+        },
+        {
+            "name": "河南卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hnws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png"
+        },
+        {
+            "name": "湖北卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hubws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png"
+        },
+        {
+            "name": "湖南卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hunws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png"
+        },
+        {
+            "name": "江西卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=jxws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png"
+        },
+        {
+            "name": "江苏卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=jsws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png"
+        },
+        {
+            "name": "东南卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=dnws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png"
+        },
+        {
+            "name": "海峡卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hxws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png"
+        },
+        {
+            "name": "广东卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=gdws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png"
+        },
+        {
+            "name": "大湾区卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=dwqws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png"
+        },
+        {
+            "name": "广西卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=gxws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png"
+        },
+        {
+            "name": "云南卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=ynws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png"
+        },
+        {
+            "name": "贵州卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=gzws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png"
+        },
+        {
+            "name": "新疆卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=xjws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png"
+        },
+        {
+            "name": "西藏卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=xzws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png"
+        },
+        {
+            "name": "海南卫视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hinws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png"
+        },
+        {
+            "name": "四海钓鱼",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=shdy",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/四海钓鱼.png"
+        },
+        {
+            "name": "CHC动作电影",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=chcdzdy",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CHC动作电影.png"
+        },
+        {
+            "name": "CHC家庭影院",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=chcjtdy",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CHC家庭影院.png"
+        },
+        {
+            "name": "东方影视",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=dfys",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png"
+        },
+        {
+            "name": "上海新闻综合",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=shxwzh",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png"
+        },
+        {
+            "name": "上海第一财经",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=dycj",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/上海第一财经.png"
+        },
+        {
+            "name": "上视纪实人文",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=shjsrw",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/上视纪实人文.png"
+        },
+        {
+            "name": "上海外语",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=shics",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/上海外语.png"
+        },
+        {
+            "name": "法治天地",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=fztd",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/法治天地.png"
+        },
+        {
+            "name": "劲爆体育",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=jbty",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/劲爆体育.png"
+        },
+        {
+            "name": "魅力足球",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=mlzq",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/魅力足球.png"
+        },
+        {
+            "name": "乐游",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=ly",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/乐游.png"
+        },
+        {
+            "name": "欢笑剧场",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=hxjc",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/欢笑剧场.png"
+        },
+        {
+            "name": "七彩戏剧",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=qcxj",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/七彩戏剧.png"
+        },
+        {
+            "name": "游戏风云",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=yxfy",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/游戏风云.png"
+        },
+        {
+            "name": "优漫卡通",
+            "webUrl": "http://www.wmviv.com/iptv/bc2t.php?id=ymkt",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png"
+        },
+        {
+            "name": "湖南卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=湖南卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png"
+        },
+        {
+            "name": "北京卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=北京卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png"
+        },
+        {
+            "name": "深圳卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=深圳卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视.png"
+        },
+        {
+            "name": "浙江卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=浙江卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png"
+        },
+        {
+            "name": "江苏卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=江苏卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png"
+        },
+        {
+            "name": "陕西卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=陕西卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png"
+        },
+        {
+            "name": "湖北卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=湖北卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png"
+        },
+        {
+            "name": "内蒙古卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=内蒙古卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png"
+        },
+        {
+            "name": "江西卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=江西卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png"
+        },
+        {
+            "name": "广东卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=广东卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png"
+        },
+        {
+            "name": "东方卫视",
+            "webUrl": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png"
+        },
+        {
+            "name": "西藏卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=西藏卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png"
+        },
+        {
+            "name": "新疆卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=新疆卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png"
+        },
+        {
+            "name": "青海卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=青海卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png"
+        },
+        {
+            "name": "东南卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=东南卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png"
+        },
+        {
+            "name": "吉林卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=吉林卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png"
+        },
+        {
+            "name": "四川卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=四川卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视.png"
+        },
+        {
+            "name": "天津卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=天津卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png"
+        },
+        {
+            "name": "安徽卫视",
+            "webUrl": "http://101.35.240.114:88/live.php?id=安徽卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png"
+        },
+        {
+            "name": "山东卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=山东卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视.png"
+        },
+        {
+            "name": "山西卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=山西卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png"
+        },
+        {
+            "name": "广西卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=广西卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png"
+        },
+        {
+            "name": "河北卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=河北卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png"
+        },
+        {
+            "name": "河南卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=河南卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png"
+        },
+        {
+            "name": "甘肃卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=甘肃卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png"
+        },
+        {
+            "name": "贵州卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=贵州卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png"
+        },
+        {
+            "name": "辽宁卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=辽宁卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png"
+        },
+        {
+            "name": "重庆卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=重庆卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png"
+        },
+        {
+            "name": "黑龙江卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=黑龙江卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png"
+        },
+        {
+            "name": "海南卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=海南卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png"
+        },
+        {
+            "name": "大湾区卫视",
+            "webUrl": "http://148.135.93.213/live.php?id=大湾区卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png"
+        },
+        {
+            "name": "北京卫视4K",
+            "webUrl": "http://101.35.240.114:88/live.php?id=北京卫视",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png"
+        },
+        {
+            "name": "苏州4K",
+            "webUrl": "https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png"
+        },
+        {
+            "name": "河北4K",
+            "webUrl": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/河北4K.png"
+        },
+        {
+            "name": "河北卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000108.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png"
+        },
+        {
+            "name": "内蒙古卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000110.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视 视.png"
+        },
+        {
+            "name": "海南卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000473.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png"
+        },
+        {
+            "name": "宁夏卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000118.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png"
+        },
+        {
+            "name": "云南卫视",
+            "webUrl": "http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png"
+        },
+        {
+            "name": "延边卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000117.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/延边卫视.png"
+        },
+        {
+            "name": "厦门卫视",
+            "webUrl": "http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/厦门卫视.png"
+        },
+        {
+            "name": "农林卫视",
+            "webUrl": "http://120.76.248.139/live/bfgd/4200000122.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/农林卫视.png"
+        },
+        {
+            "name": "兵团卫视",
+            "webUrl": "http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png"
+        },
+        {
+            "name": "山东教育",
+            "webUrl": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育卫视.png"
+        },
+        {
+            "name": "海峡卫视",
+            "webUrl": "http://8.138.7.223/tv/hxws.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png"
+        },
+        {
+            "name": "大湾区卫视",
+            "webUrl": "http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/大湾区卫视.png"
+        },
+        {
+            "name": "珠江卫视",
+            "webUrl": "http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/广东珠江.png"
+        },
+        {
+            "name": "海南卫视",
+            "webUrl": "http://nn.7x9d.cn/地方台8563/海南.php?id=hnws",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png"
+        },
+        {
+            "name": "香港卫视",
+            "webUrl": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png"
+        },
+        {
+            "name": "浙江卫视",
+            "webUrl": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png"
+        },
+        {
+            "name": "CCTV1",
+            "webUrl": "http://112.27.235.94:8000/hls/1/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png"
+        },
+        {
+            "name": "CCTV2",
+            "webUrl": "http://112.27.235.94:8000/hls/2/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png"
+        },
+        {
+            "name": "CCTV3",
+            "webUrl": "http://112.27.235.94:8000/hls/3/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png"
+        },
+        {
+            "name": "CCTV4",
+            "webUrl": "http://112.27.235.94:8000/hls/4/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png"
+        },
+        {
+            "name": "CCTV5",
+            "webUrl": "http://112.27.235.94:8000/hls/5/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png"
+        },
+        {
+            "name": "CCTV5+",
+            "webUrl": "http://112.27.235.94:8000/hls/6/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png"
+        },
+        {
+            "name": "CCTV6",
+            "webUrl": "http://112.27.235.94:8000/hls/7/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png"
+        },
+        {
+            "name": "CCTV7",
+            "webUrl": "http://112.27.235.94:8000/hls/8/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png"
+        },
+        {
+            "name": "CCTV8",
+            "webUrl": "http://112.27.235.94:8000/hls/9/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png"
+        },
+        {
+            "name": "CCTV9",
+            "webUrl": "http://112.27.235.94:8000/hls/10/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png"
+        },
+        {
+            "name": "CCTV10",
+            "webUrl": "http://112.27.235.94:8000/hls/11/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png"
+        },
+        {
+            "name": "CCTV11",
+            "webUrl": "http://112.27.235.94:8000/hls/12/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png"
+        },
+        {
+            "name": "CCTV12",
+            "webUrl": "http://112.27.235.94:8000/hls/13/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png"
+        },
+        {
+            "name": "CCTV13",
+            "webUrl": "http://112.27.235.94:8000/hls/14/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png"
+        },
+        {
+            "name": "CCTV14",
+            "webUrl": "http://112.27.235.94:8000/hls/15/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png"
+        },
+        {
+            "name": "CCTV15",
+            "webUrl": "http://112.27.235.94:8000/hls/16/index.m3u8",
+            "rule": "direct",
+            "cover": "https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png"
+        },
+        {
+            "name": "CGTN",
+            "webUrl": "http://112.27.235.94:8000/hls/17/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/CGTN.png"
+        },
+        {
+            "name": "安徽卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/26/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/安徽卫视.png"
+        },
+        {
+            "name": "北京卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/27/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/北京卫视.png"
+        },
+        {
+            "name": "上海卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/28/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/上海卫视.png"
+        },
+        {
+            "name": "浙江卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/29/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/浙江卫视.png"
+        },
+        {
+            "name": "广东卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/30/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/广东卫视.png"
+        },
+        {
+            "name": "湖南卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/31/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/湖南卫视.png"
+        },
+        {
+            "name": "江苏卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/32/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/江苏卫视.png"
+        },
+        {
+            "name": "深圳卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/33/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/深圳卫视.png"
+        },
+        {
+            "name": "山东卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/34/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/山东卫视.png"
+        },
+        {
+            "name": "四川卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/35/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/四川卫视.png"
+        },
+        {
+            "name": "重庆卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/36/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/重庆卫视.png"
+        },
+        {
+            "name": "河南卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/37/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/河南卫视.png"
+        },
+        {
+            "name": "东南卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/38/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/东南卫视.png"
+        },
+        {
+            "name": "河北卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/39/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/河北卫视.png"
+        },
+        {
+            "name": "云南卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/40/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/云南卫视.png"
+        },
+        {
+            "name": "湖北卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/41/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/湖北卫视.png"
+        },
+        {
+            "name": "天津卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/42/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/天津卫视.png"
+        },
+        {
+            "name": "陕西卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/43/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/陕西卫视.png"
+        },
+        {
+            "name": "江西卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/44/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/江西卫视.png"
+        },
+        {
+            "name": "山西卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/45/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/山西卫视.png"
+        },
+        {
+            "name": "贵州卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/46/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/贵州卫视.png"
+        },
+        {
+            "name": "辽宁卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/47/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/辽宁卫视.png"
+        },
+        {
+            "name": "黑龙江卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/48/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/黑龙江卫视.png"
+        },
+        {
+            "name": "内蒙古卫视",
+            "webUrl": "http://112.27.235.94:8000/hls/49/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/内蒙古卫视.png"
+        },
+        {
+            "name": "重温经典",
+            "webUrl": "http://112.27.235.94:8000/hls/50/index.m3u8",
+            "rule": "direct",
+            "cover": "https://live.fanmingming.cn/tv/重温经典.png"
+        }
+
+{
+            "name": "CCTV-1 综合",
+            "webUrl": "https://tv.cctv.com/live/cctv1/",
+            "rule": "cctv",
+            "cover":"https://piccpndks.v.kcdnvip.com/pic/cctv1_2.png"
+        },
+        {
+            "name": "CCTV-2 财经",
+            "webUrl": "https://tv.cctv.com/live/cctv2/",
+            "rule": "ysp",
+            "cover":"https://piccpndks.v.kcdnvip.com/pic/cctv2_2.png"
+        },
+        {
+            "name": "CCTV-3 综艺",
+            "webUrl": "https://tv.cctv.com/live/cctv3/",
+            "rule": "cctv",
+            "cover":"https://piccpndks.v.kcdnvip.com/pic/cctv3_2.png"
+        },
+        {
+            "name": "CCTV-4 中文国际（亚）",
+            "webUrl": "https://tv.cctv.com/live/cctv4/",
+            "rule": "cctv",
+            "cover":"https://piccpndks.v.kcdnvip.com/pic/cctv4_2.png"
+        },
+        {
+            "name": "CCTV 4 中文国际 (欧)",
+            "webUrl": "https://tv.cctv.com/live/cctveurope/index.shtml",
+            "rule": "cctv"
+        },
+        {
+            "name": "CCTV 4 中文国际 (美)",
+            "webUrl": "https://tv.cctv.com/live/cctvamerica/",
+            "rule": "cctv"
+        },
+        {
+            "name": "CCTV-5 体育",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001818",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-5+ 体育赛事",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001817",
+            "rule": "ysp",
+            "cover":"https://piccpndks.v.kcdnvip.com/pic/cctv5plus_2.png"
+        },
+        {
+            "name": "CCTV-6 电影",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600108442",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-7 国防军事",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600004092",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-8 电视剧",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001803",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-9 纪录",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600004078",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-10 科教",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001805",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-11 戏曲",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001806",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-12 社会与法",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001807",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-13 新闻",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001811",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-14 少儿",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001809",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-15 音乐",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001815",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-16 奥林匹克",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600098637",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV-17 农业农村",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600001810",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV 4K",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002264",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV 风云剧场",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600099658",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV 第一剧场",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600099655",
+            "rule": "ysp"
+        },
+        {
+            "name": "CCTV 怀旧剧场",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600099620",
+            "rule": "ysp"
+        },
+        {
+            "name": "CGTN",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600014550",
+            "rule": "ysp"
+        },
+        {
+            "name": "CGTN 纪录频道",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600084781",
+            "rule": "ysp"
+        },
+        {
+            "name": "北京卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002309",
+            "rule": "ysp"
+        },
+        {
+            "name": "江苏卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002521",
+            "rule": "ysp"
+        },
+        {
+            "name": "东方卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002483",
+            "rule": "ysp"
+        },
+        {
+            "name": "浙江卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002520",
+            "rule": "ysp"
+        },
+        {
+            "name": "湖南卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002475",
+            "rule": "ysp"
+        },
+        {
+            "name": "湖北卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002508",
+            "rule": "ysp"
+        },
+        {
+            "name": "广东卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002485",
+            "rule": "ysp"
+        },
+        {
+            "name": "广西卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002509",
+            "rule": "ysp"
+        },
+        {
+            "name": "黑龙江卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002498",
+            "rule": "ysp"
+        },
+        {
+            "name": "海南卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002506",
+            "rule": "ysp"
+        },
+        {
+            "name": "重庆卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002531",
+            "rule": "ysp"
+        },
+        {
+            "name": "深圳卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002481",
+            "rule": "ysp"
+        },
+        {
+            "name": "四川卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002516",
+            "rule": "ysp"
+        },
+        {
+            "name": "河南卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002525",
+            "rule": "ysp"
+        },
+        {
+            "name": "福建东南卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002484",
+            "rule": "ysp"
+        },
+        {
+            "name": "贵州卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002490",
+            "rule": "ysp"
+        },
+        {
+            "name": "江西卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002503",
+            "rule": "ysp"
+        },
+        {
+            "name": "辽宁卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002505",
+            "rule": "ysp"
+        },
+        {
+            "name": "安徽卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002532",
+            "rule": "ysp"
+        },
+        {
+            "name": "河北卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002493",
+            "rule": "ysp"
+        },
+        {
+            "name": "山东卫视",
+            "webUrl": "https://www.yangshipin.cn/tv/home?pid=600002513",
+            "rule": "ysp"
+        }
+    ],
+    "ruleUrlMap": {
+        "ysp": "https://api.7na7.com/myApi/liveTV/ysp.min.js",
+        "cctv": "https://api.7na7.com/myApi/liveTV/cctv.min.js"
+    }
+}
